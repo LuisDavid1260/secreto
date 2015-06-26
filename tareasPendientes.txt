@@ -1,3 +1,4 @@
 aqui las tareas pendientes:
 
 	poner parentesis al main (de los parametros/argumentos)
+ya comence a modificar
